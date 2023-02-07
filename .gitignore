@@ -1,0 +1,12 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApplication1/WebApplication1/obj/Debug/net6.0
+/WebApplication1/WebApplication1/Properties/launchSettings.json
+/.vs
+/.vs/.vs
+/WebApplication1/.vs/WebApplication1
+/WebApplication1/WebApplication1/obj/Release/net6.0
+/WebApplication1/WebApplication1/bin/Debug/net6.0
+/WebApplication1/WebApplication1/obj
